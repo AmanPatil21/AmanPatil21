@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm <a href="https://AmanPatil21.github.io" target="blank">Aman
+<h1 align="center">Hi 👋, I'm <a href="https://github.com/AmanPatil21" target="blank">Aman
 </a></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AmanPatil21" alt="AmanPatil21" /> </p>
